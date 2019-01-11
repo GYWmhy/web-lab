@@ -31,9 +31,9 @@ This part is written in *JSP* and *HTML5*, I partly referenced to the work of We
 * List: main.jsp, test.jsp, History.jsp  
   
 ## Presentation
-![Homepage](https://github.com/GYWnhy/web-lab/blob/master/img/main.png)
-![Search](https://github.com/GYWnhy/web-lab/blob/master/img/test.png)
+![Homepage](https://github.com/GYWmhy/web-lab/blob/master/img/main.png)
+![Search](https://github.com/GYWmhy/web-lab/blob/master/img/test.png)
 It's roughly ranked by the importance of conferences:  
-![Rank](https://github.com/GYWnhy/web-lab/blob/master/img/test0.png)
+![Rank](https://github.com/GYWmhy/web-lab/blob/master/img/test0.png)
 This part I learned from Weizhen Qi:
-![History](https://github.com/GYWnhy/web-lab/blob/master/img/history.png)
+![History](https://github.com/GYWmhy/web-lab/blob/master/img/history.png)
